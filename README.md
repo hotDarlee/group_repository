@@ -1,2 +1,2 @@
-# personal_repository
+# group_repository
 practica
